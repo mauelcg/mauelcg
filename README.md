@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="[Mark Lemuel Genita](https://ph.linkedin.com/in/mark-lemuel-genita-a59529112)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-twitter-URL">
