@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer <img src="https
 - 💻 Currently, I'm working as a Dotnet Developer, utilizing my expertise in C# and .NET to develop robust web applications.
 - ✍️ I also enjoy sharing my knowledge through technical blogs, where I write about my experiences, tutorials, and best practices.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Mark-Lemuel-Genita-blue?style=flat&logo=Linkedin&logoColor=white)](https://ph.linkedin.com/in/mark-lemuel-genita-a59529112)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Shekhar-blue?style=flat&logo=Linkedin&logoColor=white)](https://ph.linkedin.com/in/mark-lemuel-genita-a59529112)
 
 ### :hammer_and_wrench: Languages and Tools
 <div>
