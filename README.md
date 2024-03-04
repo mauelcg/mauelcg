@@ -30,7 +30,7 @@ Hello Kumusta! I'm a passionate Software Engineer <img src="https://media.giphy.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Shekhar-blue?style=flat&logo=Linkedin&logoColor=white)](https://ph.linkedin.com/in/mark-lemuel-genita-a59529112)
 
 ### :hammer_and_wrench: Languages and Tools
-| First Header  | Second Header |
+<h4>Front End </h4> | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
