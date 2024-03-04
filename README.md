@@ -41,6 +41,4 @@ Hello Kumusta! I'm a passionate Software Engineer <img src="https://media.giphy.
 
 ---
 ### :fire: My Stats
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauelcg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauelcg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
