@@ -29,6 +29,8 @@ Hello Kumusta! I'm a passionate Software Engineer <img src="https://media.giphy.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Shekhar-blue?style=flat&logo=Linkedin&logoColor=white)](https://ph.linkedin.com/in/mark-lemuel-genita-a59529112)
 
+---
+
 ### :hammer_and_wrench: Languages and Tools
 <h4><i>Front End</i></h4>
 <div>
