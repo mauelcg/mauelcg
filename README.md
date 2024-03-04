@@ -31,6 +31,9 @@ Hello Kumusta! I'm a passionate Software Engineer <img src="https://media.giphy.
 
 ### :hammer_and_wrench: Languages and Tools
 <h4>Front End</h4>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)  |  ![](https://...Ocean.png](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
