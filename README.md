@@ -11,7 +11,9 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=mauelcg&style=flat-square&color=blue" alt="" align="center"/>
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=mauelcg&style=flat-square&color=blue" alt=""/>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
