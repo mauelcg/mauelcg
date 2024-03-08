@@ -16,7 +16,7 @@
 ---
 
 ### 👨‍💻 About Me
-Hello Kumusta! I'm a passionate Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Philippines, currently working as an Software Engineer | Automation Engineer.
+Hello Kumusta! I'm a passionate Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Philippines, currently working as a Software Engineer | Automation Engineer.
 
 - 💻 Currently, I'm using C#, Python, and PowerShell to create workflow automation tools. I also have back-end web development knowledge using C# and .NET Core. Currently learning front-end development.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
