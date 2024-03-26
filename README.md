@@ -35,6 +35,7 @@ Hello Kumusta! I'm a passionate Software Engineer <img src="https://media.giphy.
 <h4><i>Back End</i></h4>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".Net Core" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title=".NET Core" alt=".Net Core" width="40" height="40"/>&nbsp;
 </div>
 
 <h4><i>Mobile</i></h4>
