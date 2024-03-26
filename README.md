@@ -37,6 +37,11 @@ Hello Kumusta! I'm a passionate Software Engineer <img src="https://media.giphy.
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".Net Core" width="40" height="40"/>&nbsp;
 </div>
 
+<h4><i>Mobile</i></h4>
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+</div>
+
 <h4><i>Version Control</i></h4>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
