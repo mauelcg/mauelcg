@@ -52,6 +52,12 @@ Hello Kumusta! I'm a passionate Software Engineer <img src="https://media.giphy.
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 </div>
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/Python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
+</div>
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" **alt="PowerShell" width="40" height="40"/>&nbsp;
+</div>
 
 ---
 
