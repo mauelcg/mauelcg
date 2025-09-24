@@ -13,12 +13,17 @@
 ---
 
 ### 👨‍💻 About Me
-Hello Kumusta! I'm a passionate Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Philippines, currently working as a Software Engineer | Automation Engineer.
+Hi, I'm **Mark Lemuel Genita**, a Software Engineer based in **Cebu City, Philippines**, with a background in **mechanical engineering** and a strong passion for building impactful, scalable software.
 
-- 💻 Currently, I'm using C#, Python, and PowerShell to create workflow automation tools. I also have back-end web development knowledge using C# and .NET Core. For mobile MVP's I use Flutter with Firebase. Currently learning and improving front-end development.
-- ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Mark_Lemuel_Genita-blue?style=flat&logo=Linkedin&logoColor=white)](https://ph.linkedin.com/in/mark-lemuel-genita-a59529112)
+I specialize in **automation**, **CI/CD**, and **full-stack development**, with hands-on experience in:
 
+- 🧠 **Python**, **.NET (CLI & Web API)**, **PowerShell**, and **React + TypeScript**
+- ⚙️ Building internal tools and automation pipelines that reduce manual workflows
+- 📦 Developing **cross-platform desktop applications** (Electron, Node.js)
+- 🧪 UI and frontend testing using **Jest**, integrated with **Jira** and Microsoft 365
+- 📲 Prototyping mobile apps with **Flutter**, **Firebase**, and **Google ML Kit**
+
+As a **Licensed Mechanical Engineer**, I bring analytical thinking, discipline, and engineering rigor into every software project I work on. I’m currently deepening my knowledge in **AI, Machine Learning, and Robotics** through self-study and online courses.
 ---
 
 ### :hammer_and_wrench: Languages and Tools
