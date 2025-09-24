@@ -24,6 +24,18 @@ I specialize in **automation**, **CI/CD**, and **full-stack development**, with 
 - 📲 Prototyping mobile apps with **Flutter**, **Firebase**, and **Google ML Kit**
 
 As a **Licensed Mechanical Engineer**, I bring analytical thinking, discipline, and engineering rigor into every software project I work on. I’m currently deepening my knowledge in **AI, Machine Learning, and Robotics** through self-study and online courses.
+
+---
+
+### 🧩 Interests & Goals
+
+I'm passionate about:
+
+- Automating complex processes with clean, maintainable code  
+- Exploring **machine learning**, **computer vision**, and **intelligent systems**  
+- Building tools that simplify workflows and enhance productivity  
+- Learning something new every day 🌱  
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools
